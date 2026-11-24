@@ -1,2 +1,1 @@
-# Kiyotaka_telecom_project
-Telecom Analytics Dashboard Suite is an end-to-end Power BI project designed for the telecom industry, featuring Executive Overview, HR Analytics, and Customer Churn Analytics dashboards. The solution provides actionable insights into customer behavior, churn trends, sales performance, workforce productivity, and business operations through interactive visualizations and KPI tracking. It helps organizations improve customer retention, optimize employee performance, and support data-driven decision-making.  Tech Stack: Power BI, DAX, Power Query, Data Modeling  Domain: Telecommunications | Business Intelligence | Data Analytics
+java program in swing
